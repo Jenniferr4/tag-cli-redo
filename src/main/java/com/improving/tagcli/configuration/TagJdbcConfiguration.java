@@ -14,8 +14,8 @@ public class TagJdbcConfiguration {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/tag?serverTimezone=UTC");
-        dataSource.setUsername("taylorlocal");
-        dataSource.setPassword("supertopsecretpassw0rd");
+        dataSource.setUsername("Jenniferr4");
+        dataSource.setPassword("Cowboy@15");
         return dataSource;
     }
 
